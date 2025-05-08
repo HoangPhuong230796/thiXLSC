@@ -15,12 +15,26 @@
     <h2>Bài Trắc Nghiệm</h2>
     <div id="quiz"></div>
     <button onclick="checkAnswers()">Nộp Bài</button>
+
     <script>
+        // Hàm xáo trộn mảng
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
         async function loadQuiz() {
             const response = await fetch('questions.json');
             const questions = await response.json();
+
+            // Xáo trộn thứ tự câu hỏi
+            shuffleArray(questions);
+
             const quizContainer = document.getElementById('quiz');
-            
+            quizContainer.innerHTML = ''; // Xóa nếu có nội dung cũ
+
             questions.forEach((q, index) => {
                 const div = document.createElement('div');
                 div.classList.add('question');
@@ -33,17 +47,36 @@
             });
         }
 
-        function checkAnswers() {
-            document.querySelectorAll('.question').forEach(q => {
-                const selected = q.querySelector('input[type=radio]:checked');
-                if (selected) {
-                    const isCorrect = selected.value === q.getAttribute('data-answer');
-                    q.style.backgroundColor = isCorrect ? '#d4edda' : '#f8d7da';
-                    q.innerHTML += `<p class="${isCorrect ? 'correct' : 'wrong'}">Đáp án đúng: ${q.getAttribute('data-answer')}</p>`;
-                }
-            });
+function checkAnswers() {
+    let correctCount = 0;
+    let wrongCount = 0;
+
+    document.querySelectorAll('.question').forEach(q => {
+        const selected = q.querySelector('input[type=radio]:checked');
+        const answer = q.getAttribute('data-answer');
+        if (selected) {
+            const isCorrect = selected.value === answer;
+            if (isCorrect) {
+                correctCount++;
+                q.style.backgroundColor = '#d4edda';
+                q.innerHTML += `<p class="correct">Đáp án đúng: ${answer}</p>`;
+            } else {
+                wrongCount++;
+                q.style.backgroundColor = '#f8d7da';
+                q.innerHTML += `<p class="wrong">Đáp án đúng: ${answer}</p>`;
+            }
+        } else {
+            wrongCount++;
+            q.style.backgroundColor = '#f8d7da';
+            q.innerHTML += `<p class="wrong">Bạn chưa chọn. Đáp án đúng: ${answer}</p>`;
         }
-        
+    });
+
+    // Hiển thị kết quả tổng
+    const result = document.createElement('div');
+    result.innerHTML = `<h3>Kết quả: Đúng ${correctCount} / Sai ${wrongCount}</h3>`;
+    document.body.appendChild(result);
+}
         loadQuiz();
     </script>
 </body>
