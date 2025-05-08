@@ -1,0 +1,1172 @@
+[
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: nguyên tắc xác định là sự cố hoặc bất thường",
+    "options": [
+      "Xác định là sự cố hoặc bất thường được xét đối với thiết bị, tổ máy đang vận hành",
+      "Thiết bị, tổ máy đang dự phòng nhưng huy động không được và dẫn đến ngừng, giảm mức cung cấp điện cho khách hàng cũng xét là sự cố",
+      "Thiết bị, tổ máy tách ra khỏi vận hành để sửa chữa nhưng đưa vào muộn so với kế hoạch, dẫn đến ngừng, giảm mức cung cấp điện cho khách hàng mà không có lý do khách quan cũng xét là sự cố",
+      "Cả 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: xác định sản lượng điện thiếu hụt do sự cố gây ra",
+    "options": [
+      "Sản lượng điện năng thiếu hụt do sự cố tổ máy phát điện được tính bằng lượng công suất khả dụng nhân với thời gian khắc phục sự cố",
+      "Sản lượng điện năng thiếu hụt do sự cố tổ máy phát điện được tính bằng lượng công suất tổ máy đang phát nhân với thời gian khắc phục sự cố",
+      "1 đúng 2 sai",
+      "1 và 2 sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: phân loại sự cố được chia làm mấy cấp",
+    "options": [
+      "01 cấp",
+      "02 cấp",
+      "03 cấp",
+      "04 cấp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: không xác định là sự cố đối với các trường hợp sau",
+    "options": [
+      "Các tổ máy phát nhiệt điện đã ngừng dự phòng thời gian quá 30 ngày, khởi  động không thành công do Cấp điều độ có quyền điều khiển thông báo huy động muộn hơn thời gian thỏa thuận giữa hai bên theo Thông tư quy định quy trình điều độ HTĐ quốc gia",
+      "Hư hỏng các thiết bị mới hoặc thiết bị sau đại tu đang trong giai đoạn chạy thử, nghiệm thu gây ảnh hưởng đến vận hành tổ máy (thời gian chạy thử, nghiệm thu theo đăng ký của đơn vị và đã được phê duyệt)",
+      "Vi phạm chế độ vận hành bình thường nhưng đã thông báo trước theo kế \nhoạch",
+      "Câu 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: bất thường đối với Nhà máy điện",
+    "options": [
+      "Hệ thống thiết bị phụ trợ vận hành không bình thường dẫn đến phải giảm công suất phát của tổ máy phát điện đến 20% so với công suất khả dụng ",
+      "Thiết bị chính vận hành không bình thường hoặc có hiện tượng hư hỏng nhưng vẫn còn duy trì vận hành được cho đến kỳ sửa chữa kế tiếp hoặc đến khi Cấp điều độ có quyền điều khiển cho phép ngừng vận hành theo kế hoạch",
+      "Thiết bị phụ trợ trong quá trình vận hành nếu xảy ra hư hỏng hoặc có hiện tượng hư hỏng cần phải ngừng vận hành mà không gây sự cố làm ngừng thiết bị chính",
+      "Câu 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: tần số HTĐ quốc gia nằm ngoài dải từ 49 Hz đến 51 Hz và thời gian kéo dài quá 10 giây",
+    "options": [
+      "Sự cố cấp 1",
+      "Sự cố cấp 2",
+      "Sự cố cấp 3",
+      "Sự cố cấp 4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: điện áp thanh cái cấp điện áp 220kV thấp hơn 198kV thời gian kéo dài quá 60 phút",
+    "options": [
+      "Sự cố cấp 1",
+      "Sự cố cấp 2",
+      "Sự cố cấp 3",
+      "Sự cố cấp 4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố chủ quan xảy ra do các nguyên nhân",
+    "options": [
+      "Do nhân viên vận hành gây ra do không thực hiện đúng các quy trình, quy định",
+      "Do nhân viên sửa chữa và thí nghiệm gây ra",
+      "Câu 1, 2 đúng",
+      "Câu 1, 2 sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: Điện áp thanh cái cấp điện áp 110kV thấp hơn 99kV thời gian kéo dài quá 30 phút",
+    "options": [
+      "Sự cố cấp 1",
+      "Sự cố cấp 2",
+      "Sự cố cấp 3",
+      "Không quy định"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: phân loại theo mức độ hư hỏng thiết bị, thời gian khắc phục và hậu quả gây ra gồm có",
+    "options": [
+      "01 cấp",
+      "02 cấp",
+      "03 cấp (sự cố cấp 1/cấp 2/ cấp 3)",
+      "Không quy định"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố cấp 1 đối với Nhà máy điện",
+    "options": [
+      "Sự cố cháy dẫn đến ngừng tổ máy phát điện",
+      "Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 14 ngày đối với Nhà máy nhiệt điện, trên 07 ngày đối với NMĐ loại hình khác",
+      "1 và 2 đúng",
+      "1 và 2 sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố cấp 3 đối với Nhà máy điện",
+    "options": [
+      "Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục đến 07 ngày đối với NMĐ nhiệt điện, đến 03 ngày đối với NMĐ loại hình khác",
+      "Hệ thống thiết bị phụ trợ vận hành không bình thường dẫn đến phải giảm công suất phát của tổ máy phát điện trên 20% so với công suất khả dụng",
+      "Tổ máy phát điện đang ở trạng thái dự phòng mà không huy động được ngay, thời gian khắc phục đến 8 giờ mới hoà đồng bộ vào HTĐ quốc gia so với thời gian dự kiến hòa lưới, trừ trường hợp quy định tại Điểm a Khoản 2 Điều 4 Quy trình này",
+      "Cả 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố cấp 2 đối với Nhà máy điện",
+    "options": [
+      "Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 07 ngày đến 14 ngày đối với Nhà máy nhiệt điện, trên 03 ngày đến 07 ngày đối với NMĐ loại hình khác",
+      "Tổ máy phát điện hoặc lò đang ở trạng thái dự phòng mà không huy động được ngay, thời gian khắc phục trên 24 giờ (ý đúng là trên 08h) mới hoà đồng bộ vào HTĐ quốc gia so với thời gian dự kiến hòa lưới, trừ trường hợp quy định tại Điểm a Khoản 2 Điều 4 Quy trình này",
+      "1 đúng 2 sai",
+      "1 sai 2 đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố khách quan do các nguyên nhân",
+    "options": [
+      "Do thiên tai, địch họa gây ra",
+      "Do cá nhân, tổ chức bên ngoài",
+      "Do lãnh đạo đơn vị chỉ đạo, điều hành trong sản xuất gây ra (nguyên nhân này là sự cố chủ quan)",
+      "1, 2 đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố chủ quan do các nguyên nhân",
+    "options": [
+      "Do lãnh đạo đơn vị chỉ đạo, điều hành trong sản xuất gây ra",
+      "Do nhân viên vận hành gây ra do không thực hiện đúng các quy trình, quy định",
+      "Do nhân viên sửa chữa và thí nghiệm gây ra hoặc Do khiếm khuyết, bất thường của hệ thống, thiết bị hoạt động không ổn định theo thiết kế",
+      "1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: thời hạn gửi Báo cáo sự cố",
+    "options": [
+      "Không muộn hơn 24 giờ kể từ khi xảy ra sự cố, các công ty phát điện trong EVNGENCO 3 gửi Báo cáo sự cố xảy ra thuộc phạm vi quản lý của đơn vị",
+      "Không muộn hơn 30 giờ kể từ khi xảy ra sự cố, các công ty phát điện trong EVNGENCO 3 gửi Báo cáo sự cố xảy ra thuộc phạm vi quản lý của đơn vị",
+      "Không muộn hơn 36 giờ kể từ khi xảy ra sự cố, các công ty phát điện trong EVNGENCO 3 gửi Báo cáo sự cố xảy ra thuộc phạm vi quản lý của đơn vị",
+      "Không muộn hơn 48 giờ kể từ khi xảy ra sự cố, các công ty phát điện trong EVNGENCO 3 gửi Báo cáo sự cố xảy ra thuộc phạm vi quản lý của đơn vị"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: hình thức gửi Báo cáo sự cố",
+    "options": [
+      "Gửi qua E-Office và bằng thư điện tử gửi theo địa chỉ do EVNGENCO 3 cung cấp",
+      "Gửi bằng thư điện tử gửi theo địa chỉ do EVN cung cấp",
+      "Gửi qua EVN Portal (PMIS) theo quy định của EVN",
+      "1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: thời hạn điều tra sự cố đối với sự cố cấp 1",
+    "options": [
+      "Không quá 20 ngày làm việc",
+      "Không quá 25 ngày làm việc",
+      "Không quá 30 ngày làm việc",
+      "Không quy định thời gian"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: thời hạn điều tra sự cố đối với sự cố cấp 2",
+    "options": [
+      "Không quá 15 ngày làm việc",
+      "Không quá 20 ngày làm việc",
+      "Không quá 25 ngày làm việc",
+      "Không quy định thời gian"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: thời hạn điều tra sự cố đối với sự cố cấp 3, bất thường",
+    "options": [
+      "Không quá 05 ngày làm việc",
+      "Không quá 10 ngày làm việc",
+      "Không quá 15 ngày làm việc",
+      "Không quy định thời gian"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: phân cấp tổ chức điều tra sự cố của EVNGENCO3",
+    "options": [
+      "Điều tra sự cố cấp 1 thuộc EVNGENCO 3",
+      "Điều tra sự cố cấp 2 của các NMĐ thuộc EVNGENCO 3",
+      "1, 2 đúng",
+      "1, 2 sai"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: phân cấp tổ chức điều tra sự cố của Công ty NĐ Phú Mỹ",
+    "options": [
+      "Điều tra sự cố cấp 1 của Công ty",
+      "Điều tra sự cố cấp 2 của Công ty",
+      "Điều tra sự cố cấp 3, bất thường của Công ty",
+      "Không quy định"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: thành phần đoàn điều tra sự cố cấp EVNGENCO3",
+    "options": [
+      "Do Phó Tổng giám đốc Tổng Công ty phụ trách Kỹ thuật - Sản xuất làm trưởng đoàn",
+      "Do lãnh đạo Ban An toàn/Kỹ thuật - Sản xuất/Kinh doanh - Thị trường điện làm trưởng đoàn",
+      "1, 2 đúng",
+      "1, 2 sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: thành phần đoàn điều tra sự cố cấp Công ty",
+    "options": [
+      "Do Phó Tổng giám đốc Tổng Công ty phụ trách Kỹ thuật - Sản xuất làm trưởng đoàn",
+      "Do lãnh đạo Ban An toàn/Kỹ thuật - Sản xuất/Kinh doanh - Thị trường điện làm trưởng đoàn",
+      "Do Trưởng phòng Kỹ thuật An toàn làm trưởng đoàn",
+      "Do Giám đốc hoặc Phó Giám đốc Công ty làm Trưởng đoàn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 14 ngày đối với Nhà máy nhiệt điện là sự cố cấp mấy?",
+    "options": [
+      "Cấp 1",
+      "Cấp 2",
+      "Cấp 3",
+      "Cấp 4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 07 ngày đến 14 ngày đối với Nhà máy nhiệt điện là sự cố cấp mấy?",
+    "options": [
+      "Cấp 1",
+      "Cấp 2",
+      "Cấp 3",
+      "Cấp 4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục\nđến 07 ngày đối với Nhà máy nhiệt điện",
+    "options": [
+      "Cấp 1",
+      "Cấp 2",
+      "Cấp 3",
+      "Cấp 4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố được phân loại theo",
+    "options": [
+      "Phân loại theo quy mô",
+      "Phân loại theo mức độ hư hỏng thiết bị, thời gian khắc phục và hậu quả gây ra",
+      "Phân loại theo nguyên nhân",
+      "Tất cả các ý trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: Lò, tổ máy phát điện bị sự cố, trước đó đã đăng ký kế hoạch ngừng thiết bị để ngăn ngừa sự cố nhưng chưa được Cấp điều độ có quyền điều khiển phê duyệt mà bị sự cố thì được phân loại sự cố nào?",
+    "options": [
+      "Bất thường",
+      "Sự cố cấp 1",
+      "Sự cố cấp 2",
+      "Sự cố cấp 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Quy trình điều tra sự cố nhà máy điện trong Tổng Công ty Phát điện 3: sự cố nào sau đây không phải là sự cố chủ quan.",
+    "options": [
+      "Do lãnh đạo đơn vị chỉ đạo, điều hành trong sản xuất gây ra",
+      "Do nhân viên vận hành gây ra do không thực hiện đúng các quy trình, quy\nđịnh",
+      "Do sự cố đường dây, thiết bị của Đơn vị quản lý vận hành khác gây ra",
+      "Do khiếm khuyết, bất thường của hệ thống, thiết bị hoạt động không ổn\nđịnh theo thiết kế"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Các nguyên nhân gốc rễ chính gây ra sự cố NMĐ được phân loại theo ",
+    "options": [
+      "Thiết bị",
+      "Bảo dưỡng sửa chữa",
+      "Vận hành",
+      " Câu 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố chủ quan xảy ra do các nguyên nhân",
+    "options": [
+      "Vi phạm quy định, quy trình về thao tác, thực hiện biện pháp an toàn",
+      "Vi phạm kỷ luật trong vận hành, công tác theo dõi, đánh giá, phân tích thiết bị vận hành",
+      "Vi phạm quy định quy trình thực hiện công tác thí nghiệm, hiệu chỉnh, chỉnh định, kiểm định\n",
+      "Câu 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ được hiểu là",
+    "options": [
+      "Sự cố NMĐ là sự kiện một hoặc nhiều hệ thống thiết bị do một hoặc nhiều nguyên nhân dẫn đến hoạt động không bình thường hoặc ngừng hoạt động, gây ngừng cung cấp điện.",
+      "Sự cố NMĐ là sự kiện một hoặc nhiều hệ thống thiết bị do một hoặc nhiều nguyên nhân dẫn đến hoạt động không bình thường hoặc ngừng hoạt động, gây ngừng cung cấp điện hoặc ảnh hưởng đến việc đảm bảo cung ứng điện an toàn, ổn định, liên tục của nhà máy và an ninh cung cấp điện cho HTĐ Quốc gia",
+      "Sự cố NMĐ là sự kiện một hoặc nhiều hệ thống thiết bị do một hoặc nhiều nguyên nhân dẫn đến hoặc ngừng hoạt động, gây ngừng cung cấp điện hoặc ảnh hưởng đến việc đảm bảo cung ứng điện an toàn, ổn định, liên tục của nhà máy và an ninh cung cấp điện cho HTĐ Quốc gia",
+      "Sự cố NMĐ là sự kiện một hoặc nhiều hệ thống thiết bị do một hoặc nhiều nguyên nhân dẫn đến hoạt động không bình thường hoặc ngừng hoạt động, gây ngừng cung cấp điện hoặc ảnh hưởng đến việc đảm bảo cung ứng điện an toàn, ổn định, liên tục của nhà máy."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ do các nguyên nhân sự cố thiết bị là",
+    "options": [
+      "Công tác thí nghiệm, hiệu chỉnh, chỉnh định, kiểm định: Thực hiện không đúng thời gian theo quy định, không đúng theo quy trình và khuyến cáo của nhà sản xuất, bỏ qua hạng mục công việc hoặc thực hiện không đảm bảo chất lượng",
+      "Nguyên nhân tồn tại từ công tác đầu tư xây dựng trong quá trình quản lý, giám sát thi công, lắp đặt, thí nghiệm và chạy thử hoặc khiếm khuyết thiết bị chưa được xử lý triệt để trước khi đưa vào vận hành",
+      "Chất lượng thiết bị không đảm bảo yêu cầu",
+      "Câu 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ các nguyên nhân do sửa chữa bảo dưỡng là",
+    "options": [
+      "Không biên soạn đầy đủ các quy trình SCBD thiết bị.",
+      "Vi phạm quy định về SCBD: Không thực hiện hoặc bỏ qua các hạng mục công việc SCBD thường xuyên, định kỳ theo quy trình hoặc khuyến cáo của nhà sản xuất",
+      "Chất lượng SCBD, vật tư thiết bị thay thế không đạt yêu cầu sau công tác SCBD. Công tác đánh giá, nghiệm thu chạy thử thiết bị sau SCBD không đầy đủ theo các hạng mục/ nội dung đề ra",
+      "Câu 1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ các nguyên nhân do công tác vận hành là",
+    "options": [
+      "Ý thức kỷ luật, công tác quản lý vận hành, thực hiện quy định, quy trình vận hành",
+      "trình độ vận hành viên",
+      "kết hợp 1, 2",
+      "cả 1 và 2 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ một trong các nguyên nhân sự cố do công tác vận hành là",
+    "options": [
+      "Không quy định chức năng nhiệm vụ của vận hành viên và các bộ phận, đơn vị có liên quan",
+      "Kết hợp 1, 4",
+      "Cả 1 và 4 đều đúng",
+      "Vi phạm quy định, quy trình về thao tác, thực hiện các biện pháp an toàn: Không thực hiện đúng các quy trình vận hành của hệ thống thiết bị, SCBD, quy định về thao tác, vi phạm biện pháp an toàn/ biện pháp kỹ thuật thi công"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ một trong các nguyên nhân sự cố do trình độ vận hành viên là",
+    "options": [
+      "Vi phạm quy định, quy trình sát hạch đủ điều kiện: Không thực hiện huấn luyện chuyên môn, nghiệp vụ và kiểm tra, sát hạch quy trình, quy định cho nhân viên vận hành, sửa chữa, thí nghiệm và cán bộ quản lý",
+      "Trình độ nhân viên vận hành còn yếu dẫn đến việc theo dõi, giám sát và xử lý các tình huống xảy ra trong vận\n hành chậm trễ gây hậu quả nặng nề khi có bất thường xảy ra",
+      "Kết hợp 1, 2",
+      "Cả 1 và 2 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố NMĐ một trong các nguyên nhân sự cố do công tác bảo dưỡng, sửa chữa là",
+    "options": [
+      "Công tác thí nghiệm, hiệu chỉnh, chỉnh định, kiểm định: Thực hiện không đúng thời gian theo quy định, không đúng theo quy trình và khuyến cáo của nhà sản xuất, bỏ qua hạng mục công việc hoặc thực hiện không đảm bảo chất lượng",
+      "Chất lượng thiết bị không đảm bảo yêu cầu",
+      "Kết hợp 1, 2",
+      "Cả 1 và 2 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố tổ máy H6 tại Nhà máy Thủy điện Hòa Bình ngày 24/6/2022 là do?",
+    "options": [
+      " Do đội công tác thay chổi than làm chạm ngắn mạch giữa 2 vành +/- của vành góp MPC",
+      " Do rơ le bảo vệ chạm đất làm việc sai gây sự cố tổ máy",
+      " Do chổi than bị mòn gây chạm đất làm việc sai gây sự cố tổ máy",
+      " Do tổ máy nhận vô công gây rơ le bảo vệ kích từ thấp tác động gây sự cố tổ máy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố DCL 237-1 tại trạm điện tại Nhà máy Thủy điện Hòa Bình ngày 11/6/2022 là do?",
+    "options": [
+      "Do lỗi chủ quan của nhân viên đội công  tác của EVNPSC. Trong  quá  trình  kiểm tra lỗi mạch liên động 278-7, đã nối tắt nhầm mạch liên động đưa điện trực tiếp đến đầu ra đi mở dao cách ly 237-1.",
+      "Do Ca trực vận hành thao tác sai gây mở DCL 237-1",
+      "Do mạch liên động khi thi công bị sai sót gây theo tác động nhầm và mở DCL 237-1",
+      "Do Ca trực thực hiện theo lệnh điều độ có quyền điều khiển đi mở DCL 237-1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố tổ máy S1 tại Nhà máy điện Vĩnh Tân 4 ngày 17/3/2022 là do?",
+    "options": [
+      "Do nhóm công tác sửa chữa thay thế chổ than kích từ tổ máy làm chạm giữa cực +/- gây ngắn mạch",
+      "Do chổi than bị mòn gây chạm đất làm việc sai gây sự cố tổ máy",
+      " Do tổ máy nhận vô công gây rơ le bảo vệ kích từ thấp tác động gây sự cố tổ máy",
+      "Do hư hỏng board mạch rơle 64F dẫn đến bảo vệ đi tác động nhầm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố tổ máy S2 tại Nhà máy điện Mông Dương 1 ngày 26/4/2023 là do?",
+    "options": [
+      "Do lỗi phần điều khiển van bảo vệ Trip Tuabin",
+      "Do trong quá trình tăng tải các Control vlave cấp nước bao hơi cao áp đáp ứng không tốt gây mực cao gây sự cố tổ máy S2",
+      "Do trong quá trình tăng tải các Control valve cấp nước bình ngưng đáp ứng không tốt gây mực thấp gây sự cố tổ máy S2",
+      "Do trong quá trình tăng tải, áp suất ống góp nước cấp cao áp giảm thấp gây ngừng các bơm nước cấp gây sự cố tổ máy S2 "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố tổ máy S2 tại Nhà máy điện Mông Dương 1 ngày 04/02/2022 là do?",
+    "options": [
+      "Do lỗi điểm đo chân không hơi thoát hạ áp",
+      "Do bảo vệ liên động từ tín hiệu sự cố 02 lò 2A/2B",
+      "Do ảnh hưởng bởi tần số lưới tăng cao gây sự cố tổ máy",
+      "Do hư hỏng hệ thống điều khiển tổ máy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố MBA T1 của tổ máy S1 tại Nhà máy điện Mông Dương 1 ngày 05/08/2020 là do?",
+    "options": [
+      "Do lỗi dính tiếp điểm rơ le bảo vệ áp lực dầu pha C ngăn OLTC máy biến áp T1",
+      "Do bảo vệ nhiệt độ dầu tác động mức cao cấp 2",
+      "Do bảo vệ nhiệt độ cuộn dây tăng cao mức cao cấp 2",
+      "Do bảo vệ rơ le so lệch tác động"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố bình khử khí tổ máy S2 tại Nhà máy điện Mông Dương 1 ngày 05/03/2020 là do?",
+    "options": [
+      "Do bộ định vị van cấp nước vào bình khử khí bị lỗi nên tự đóng lại dẫn đến mất nước khử khí, làm sự cố bơm cấp",
+      "Do mất tín hiệu điều khiển từ DCS cấp đến điều khiển van cấp nước vào bình khử khí bị lỗi nên tự đóng lại dẫn đến mất nước khử khí, làm sự cố bơm cấp",
+      "Do chương trình điều khiển trên DCS bị sai gây ảnh hưởng đến chế độ làm việc của van điều khiển cấp nước",
+      "Do mực bình ngưng bị thấp gây thiếu nước cấp đến bình khử khí"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố ngừng tổ máy S1 tại Nhà máy điện Ninh Bình ngày 19/02/2021 là do?",
+    "options": [
+      "Do chập cáp nguồn mất toàn bộ đồng hồ giám sát phòng điều kiển trung tâm",
+      "Do mất tín hiệu điều khiển từ DCS gây sự cố tổ máy",
+      "Do mực nước bao hơi cao áp tăng cao đến giá trị bảo vệ",
+      "Do mực nước bao hơi trung áp tăng cao đến giá trị bảo vệ"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố ngừng tổ máy S4 do bảo vệ so lệch T4 tác động tại Nhà máy điện Ninh Bình ngày 21/7/2020 là do?",
+    "options": [
+      "Nguyên nhân do ảnh hưởng của thời tiết có mưa giông lớn, kèm theo sấm sét gây phóng điện sứ đỡ pha A thanh dẫn xuất tuyến 35 kv của MBA -T4, bảo vệ so lệch T4 tác động nhảy toàn bộ tổ máy S4",
+      "Do mạch nhị thứ tác động nhầm gây bảo vệ so lệch tác động",
+      "Do có chạm chập nhất thứ gây bảo vệ so lệch tác động",
+      "Do nhóm công tác thực hiện thí nghiệm phần nhị thứ nhầm tủ điều khiển từ tổ máy S3 qua S4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố ngừng tổ máy S1 do bảo vệ so lệch T1 tác động tại Nhà máy điện Ninh Bình ngày 11/04/2020 là do?",
+    "options": [
+      "Nguyên nhân sự cố ngắn mạch bên trong nội bộ máy biến áp Tl, bảo vệ so lệch TI tác động nhảy toàn bộ tổ máy S1",
+      "Do mạch nhị thứ tác động nhầm gây bảo vệ so lệch tác động",
+      "Do có chạm chập nhất thứ gây bảo vệ so lệch tác động",
+      "Do nhóm công tác thực hiện thí nghiệm phần nhị thứ nhầm tủ điều khiển từ tổ máy S2 qua S1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố ngừng tổ máy GT13 tại Nhà máy điện Phú Mỹ ngày 26/5/2023 là do?",
+    "options": [
+      "Do rơ le bảo vệ chạm đất 90% Startor máy phát điện (64B) tác động, Trip tổ máy GT13",
+      "Do mạch nhị thứ tác động nhầm gây bảo vệ so lệch tác động",
+      "Do ảnh hưởng từ dao động phi đồng bộ trên lưới gây bảo vệ phi đồng bộ tác động",
+      "Do nhóm công tác thực hiện thí nghiệm phần nhị thứ nhầm tủ điều khiển từ tổ máy S3 qua S4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố ngừng MBA T3 - TD93 do bảo vệ so lệc tác động tại Nhà máy điện Phả Lại ngày 11/01/2023 là do?",
+    "options": [
+      "Sự cố MC 903 là sự cố chủ quan của nhân viên vận hành trong quá trình thao tác đóng DCL 903-3 bằng nút điều khiển tại chỗ của tủ máy cắt, đã chạm phải nút điều khiển DTĐ 903-38 (vị trí nút điều khiển gần nhau và rất nhạy) dẫn đến ngắn mạch và cắt MBA T3 do bảo vệ so lệch.",
+      "Do mạch nhị thứ tác động nhầm gây bảo vệ so lệch tác động",
+      "Do sự cố ngắn mạch bên trong nội bộ máy biến áp T3, bảo vệ so lệch T3 tác động",
+      "Do nhóm công tác thực hiện thí nghiệm phần nhị thứ nhầm tủ điều khiển"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: sự cố ngừng tổ máy H2 do MBT T2 tác động bật sự cố tại Nhà máy điện Thủy điện Buôn Kuop ngày 01/08/2020 là do?",
+    "options": [
+      "Do sợi cáp tín hiệu bảo vệ chữa cháy MBA T2 từ tủ chữa cháy MBA T2 đến relay Lockout 86-MT bị chuột cắn, gây chạm chập, dẫn đến relay Lockout 86-MT(1) tác động bật các MC 232, 902, đồng thời gửi tín hiệu đến relay lockout 86-1(1) dừng tổ máy H2",
+      "Do mạch nhị thứ role 86-MT tác động nhầm gây bảo vệ ",
+      "Do sự cố ngắn mạch bên trong nội bộ máy biến áp T2, bảo vệ so lệch T2 tác động",
+      "Do bảo vệ nhiệt độ cuộn dây tăng cao mức cao cấp 2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Mông Dương 1 - Công ty Nhiệt điện Mông Dương ngày 19/08/2023 là do?",
+    "options": [
+      "Bục ống sinh hơi",
+      "Lỗi nguồn bộ chuyển đổi khớp nối thủy lực bơm cấp\t",
+      "Sét đánh đường dây 171 (110kV)",
+      "Sét đánh đường dây 271 (220kV)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Vĩnh Tân 2 - Công ty Nhiệt điện Vĩnh Tân ngày 14/06/2023 là do?",
+    "options": [
+      "Do lủng mối hàn đường ống nước tường sau lò.",
+      "Trip Máy phát do rơle bảo vệ chạm đất Rotor Máy phát (64F) tác động.",
+      "Lỗi tín hiệu trip Tuabin gửi đến hệ thống ETS.",
+      "Do bộ chuyển tín hiệu dòng điện kích từ bị lỗi."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Buôn Kuốp - Công ty Thủy điện Buôn Kuốp ngày 01/08/2020 là do?",
+    "options": [
+      "Do chuột chui vào mương cáp cắn võ cách điện các sợi cáp của mạch tín hiệu Chữa cháy.",
+      "Hư hỏng cảm biến đo độ mở cánh hướng",
+      "Sensor bị xuống cấp hư hỏng nội bộ linh kiên bên trong gây nên không còn khả năng cung cấp tín hiệu để phản hồi.",
+      "Bảo vệ so lệch Thanh cái C22 (87B) tác động"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Ninh Bình - Công ty cổ phần Nhiệt điện Ninh Bình ngày 28/06/2023 là do?",
+    "options": [
+      "Thủng ống đồng bình ngưng máy 3",
+      "Kẹt cửa điều chỉnh hơi tua bin số 3",
+      "Xì bích hơi chính trước van 1H1 lò hơi số 1.",
+      "Sự cố chập cáp nguồn mất toàn bộ đồng hồ giám sát phòng điều kiển trung tâm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Phú Mỹ 4 - Công ty Nhiệt điện Phú Mỹ ngày 31/07/2023 là do?",
+    "options": [
+      "Do hệ thống hơi chèn làm việc không tốt làm áp suất chân không bình ngưng tăng cao dẫn đến bảo vệ Trip ST43.",
+      "Do tín hiệu role áp suất OLTC (63 SPL) MBT T3 tác động.",
+      "Do bất thường các Control valve nước NOx không mở gây PLST và TRIP tổ máy GT41",
+      "Do CPU Reg216 ST43 bị lỗi, xuất tín hiệu Output sai dẫn đến bảo vệ bật MC cao áp và kích từ."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Phú Mỹ 2.1 - Công ty Nhiệt điện Phú Mỹ ngày 18/02/2023 là do?",
+    "options": [
+      "Do bất thường Card AO03 tín hiệu Command CV dầu 41/42/43 làm sai lệch Command và Feedback CV dầu",
+      "Do hư transmitter feedback đóng BOV tầng 1, tổ máy bị PLS/PLST",
+      "Do Solenoid valve xả Blow off valve bị bất thường, Blowoff vavle mở, dẫn đến bảo vệ  máy nén gió tác động",
+      "Do dây tín hiệu đo nhiệt độ gối trục 1 bị chạm vỏ dẫn đến bảo vệ nhiệt độ kim loại gối trục số 1 tăng cao >Max 2 tác động."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tại NMĐ Phú Mỹ 1 - Công ty Nhiệt điện Phú Mỹ ngày 26/05/2023 là do?",
+    "options": [
+      "Do bộ tín hiệu vị trí Bypass damper bị lỗi, gây Bypass damper đóng về 0%",
+      "Do rơ le bảo vệ chạm đất 90% Startor máy phát điện (64B) tác động, Trip tổ máy GT13",
+      "Do solenoid van xả nhớt OST bị hư mở xả áp suất nhớt OST giảm bảo vệ 2/3 tác động",
+      "Do đầu dò nhiệt độ blade path số 14 bị hư dẫn đến sai biệt nhiệt độ BPT số 14 tăng cao"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Giải pháp để khắc phục sự cố do ý thức kỷ luật và công tác vận hành là:",
+    "options": [
+      "Xây dựng và áp dụng quy chế khen thưởng kịp thời để động viên, khuyến khích đối với vận hành viên dánh giá, xử lý tốt các xự cố",
+      "Định kỳ hoặc đột xuất tổ chức kiểm tra việc thực hiện tuân thủ kỷ luật trong vận hành, thông",
+      "Có hình thức xử lý kỷ luật đối VHV vi phạm kỷ luật trong vận hành dẫn đến xảy ra",
+      "1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Giải pháp để khắc phục sự cố lặp lại các sự cố do lỗi tín hiệu là?",
+    "options": [
+      "Tăng cường theo dõi, kierm tra SCBD thiết bi, thí nghiệm, hiệu chỉnh để kịp thời phát hiện các bất thường để sử lý",
+      "Rà soát kiểm tra các thiết bị tương tự, thay thế hoặc bổ sung cài đặt điều kiện cần thiết để tăng độ tin cậy cho tín hiệu, hạn chế sự cố tín hiệu tác động sai",
+      "Nghiên cứu cải tiến hệ thống thiết bị đồng thời bổ sung các thiết bị giám sát hổ trợ vận hành",
+      "1, 2, 3 đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tổ máy GT41 - NMĐ Phú Mỹ 4  vận hành Idle- Công ty Nhiệt điện Phú Mỹ ngày 10/11/2022  là do?",
+    "options": [
+      "Do mất kích từ tổ máy dẫn đến tổ máy vận hành Idle",
+      "Mất nguồn của Thanh cái UPS 41BRA10 cấp nguồn UPS cho GT41",
+      "Do bộ Inverter của GT UPS số 1 bị bất thường dẫn đến điện áp đầu ra UPS giảm thấp (TC41BRA10). Hệ thống không tự động chuyển đổi sang Bypass dẫn đến Tríp hệ thống kích từ, mở máy cắt đầu cực, tổ máy vận hành Idle",
+      "Do lỗi Máy cắt đầu cực 901 dẫn đến tổ máy chạy Idle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tổ máy ST26 - NMĐ Phú Mỹ 2.1 MR - Công ty Nhiệt điện Phú Mỹ ngày 19/01/2022 là do?",
+    "options": [
+      "Bảo vệ quá điện áp Rotor tác động",
+      "Do tần số lưới tăng cao bảo vệ tần số cao tác động dẫn đến sự cố ST26 ",
+      "Do Thysistor của bộ Rectifier số 1 của hệ thống AVR bị hỏng, dẫn đến điện áp kích từ dao động, bảo vệ Qúa điện áp Rotor tác động",
+      "Do mất điện tự dùng 6,6kV dẫn đến các thiết bị phụ bị sự cố gây sự cố ST26"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Sự cố tổ máy GT13 - NMĐ Phú Mỹ 1 - Công ty Nhiệt điện Phú Mỹ ngày 8/01/2022 là do?",
+    "options": [
+      "Do Control van nhiên liệu Gas đáp ứng không tốt dẫn đến tín hiệu sai lệch giữa command và Feed back cao >5%. Bảo vệ tác động Trip tổ máy",
+      "Do van điện từ (solenoid)đường xả nhớt OVER SPEED TRIP (OST) bị mở bất thường. Dẫn đến áp suất nhớt OST giảm thấp <2.8 bar. Bảo vệ tác động Trip tổ máy",
+      "Do bơm nhớt điều khiển đang vận hành bị sự cố. Bơm dự phòng không tự động chạy được dẫn đến áp suất nhớt điều khiển thấp. Bảo vệ Trip tổ máy",
+      "Do đầu dò nhiệt độ blade path số #1 bị lỗi dẫn đến sai biệt nhiệt độ BPT số #1 tăng cao. Bảo vệ tác động Trip tổ máy GT13"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Biện pháp tránh sự cố lặp lại do lỗi tín hiệu là?",
+    "options": [
+      "Tăng cường theo dõi, kiểm tra SCBD thiết bị, thí nghiệm, chỉnh định để kịp thời phát hiện những điểm bất thường để xử lý",
+      "Rà soát kiểm tra các thiết bị tương tự, thay thế hoặc bổ sung cài đặt điều kiện cần thiết để tăng độ tin cậy cho tín hiệu, hạn chế sự cố do tín hiệu tác động sai",
+      "Nghiên cứu, cải tiến hệ thống thiết bị nhằm cải thiện tình hình hiện tại, bổ sung các thiết bị giám sát hỗ trợ vận hành.",
+      "Tất cả các ý trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Biện pháp tránh sự cố lặp lại do thiết bị kém chất lượng là?",
+    "options": [
+      "Tăng cường công tác thí nghiệm xuất xưởng, thực hiện đầy đủ các hạng mục theo yêu cầu kỹ thuật. ",
+      "Thực hiện công tác thí nghiệm, kiểm định định kỳ theo đúng các quy định.",
+      "Rà soát lập danh sách các thiết bị có tầm quan trọng và đưa vào danh mục vật tư dự phòng tối ưu, lập kế hoạch thay thế các thiết bị có chất lượng tốt hơn",
+      "Tất cả các ý trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Biện pháp tránh sự cố lặp lại do ý thức kỷ\nluật, công tác QLVH, thực hiện quy định,quy trình vận hành?",
+    "options": [
+      "Tuân thủ chấp hành tuyệt đối việc thực hiện theo các Thông tư, Quy định, Quy trình về thao tác (chế độ phiếu công tác/ phiếu thao tác), quy trình vận hành thiết bị, quy trình xử lý sự cố…",
+      "Đào tạo, phổ biến kiến thức, đánh giá cao tầm quan trọng của các vị trí vận hành trong dây chuyền sản xuất để nâng cao tinh thần trách nhiệm, ý thức kỷ luật lao động trong vận hành của vận hành viên, coi đây là một công tác đặc biệt quan trọng trong việc quản lý theo dõi, giám sát vận hành thiết bị để tránh rủi ro gây sự cố đáng tiếc.",
+      "Liên tục cập nhật, hiệu chỉnh và hoàn thiện các Quy trình vận hành đảm bảo phù hợp với điều kiện vận hành thực tế của hệ thống thiết bị.",
+      "Tất cả các ý trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Cẩm nang Sự cố nhà máy điện: Biện pháp tránh sự cố lặp lại do chất lượng SCBD?",
+    "options": [
+      "Thực hiện nghiêm chỉnh công tác kiểm tra định kỳ các hệ thống thiết bị trên cơ sở phân tích, đánh giá có hiệu quả chiến lược sửa chữa theo RCM để kịp thời phát hiện, khắc phục các hư hỏng của hệ thống thiết bị đảm bảo các thiết bị không bị dừng vận hành do sự cố",
+      "Biên soạn đầy đủ quy trình SCBD và cập nhật, bổ sung liên tục để phù hợp với điều kiện thực tế và phổ biến đến toàn bộ lực lượng vận hành, sửa chữa, kỹ thuật viên… của đơn vị để nắm bắt, thực hiện.",
+      "Kiểm tra tình trạng thiết bị ở bất kỳ thời điểm nào khi có điều kiện dừng máy để xử lý các tồn tại (nếu có) trước khi khởi động lại",
+      "Tất cả các ý trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: MBA phải tách ra khỏi vận hành khi thiếu rơ le bảo vệ trong trường hợp nào?",
+    "options": [
+      "Bảo vệ so lệch",
+      "Bảo vệ hơi",
+      "Bảo vệ còn lại không bảo đảm chống mọi dạng sự cố",
+      "Phương án 1, 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: đường dây vẫn cho phép vận hành khi thiếu rơle bảo vệ trong trường hợp nào?",
+    "options": [
+      "Bảo vệ còn lại bảo đảm chống mọi dạng sự cố",
+      "Bảo vệ còn lại bảo đảm thời gian loại trừ sự cố",
+      "Cấp điều độ có quyền điều khiển cho phép",
+      "Phương án 1, 2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: phương án nào quy định không đúng nguyên tắc xử lý sự cố",
+    "options": [
+      "Áp dụng biện pháp hiện có để nhanh chóng loại trừ sự cố",
+      "Nhanh chóng khôi phục việc cung cấp điện cho khách hàng",
+      "Vận hành hệ thống điện với tần số và điện áp khác với chế độ vận hành bình thường",
+      "Nhanh chóng khôi phục hệ thống điện về trạng thái vận hành bình thường"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: khi máy biến áp nhảy sự cố, Đơn vị quản lý vận hành phải có văn bản xác nhận máy biến áp đủ điều kiện vận hành trước khi đóng lại máy biến áp theo phương án nào?",
+    "options": [
+      "Bảo vệ so lệch tác động, kiểm tra phát hiện lỗi mạch nhị thứ và đã khắc phục",
+      "Bảo vệ áp lực dầu tác động, kiểm tra phát hiện lỗi mạch nhị thứ và đã khắc phục",
+      "Bảo vệ hơi tác động, kiểm tra không phát hiện lỗi mạch nhị thứ",
+      "Phương án 1, 2, 3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: nhân viên vận hành phải xử lý theo phương án nào nếu thanh cái bị mất điện",
+    "options": [
+      "Kiểm tra thanh cái không có điện áp, cắt các máy cắt nối thanh cái nếu đang đóng",
+      "Cắt toàn bộ máy cắt nối thanh cái bị mất điện",
+      "Cắt toàn bộ dao cách ly nối thanh cái bị mất điện",
+      "Báo cáo lãnh đạo trực tiếp"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy điện xử lý quá áp máy biến áp chuyển được nấc điều áp dưới tải theo phương án nào?",
+    "options": [
+      "Ra lệnh chuyển nấc phân áp để máy biến áp không bị quá áp",
+      "Báo cáo Cấp điều độ có quyền điều khiển cho phép chuyển nấc phân áp để máy biến áp không bị quá áp",
+      "Tách máy biến áp ra khỏi lưới",
+      "Báo cáo Cấp điều độ có quyền điều khiển điều chỉnh giảm điện áp để máy biến áp không bị quá áp"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: phương án nào quy định đúng trình tự xử lý sự cố đầu tiên của Trưởng ca nhà máy khi sự cố máy biến áp",
+    "options": [
+      "Báo cáo ngay cho Cấp điều độ có quyền điều khiển thông tin về sự cố",
+      "Xử lý sự cố máy biến áp theo quy trình",
+      "Chuyển tự dùng xoay chiều sang nhận từ nguồn dự phòng khác nếu mất tự dùng xoay chiều do sự cố máy biến áp",
+      "Hoàn thành Báo cáo nhanh sự cố theo quy định"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Phương án nào quy định đúng trách nhiệm ngăn ngừa sự cố lan rộng",
+    "options": [
+      "Đơn vị quản lý vận hành",
+      "Cấp điều độ có quyền điều khiển",
+      "Nhân viên vận hành",
+      "Phương án 1, 2, 3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Phương án nào quy định đúng quan hệ công tác trong xử lý sự cố",
+    "options": [
+      "Nhân viên vận hành cấp trên có quyền thay thế nhân viên vận hành cấp dưới",
+      "Nhân viên vận hành cấp dưới có quyền không chấp hành mệnh lệnh của Nhân viên vận hành cấp trên",
+      "Nhân viên vận hành cấp dưới phải thi hành lệnh của Lãnh đạo trực tiếp",
+      "Nhân viên vận hành phải kịp thời báo cáo sự cố nghiêm trọng cho Lãnh đạo trực tiếp"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Nếu không có quy định riêng, trong điều kiện vận hành bình thường và không bị quá tải, máy biến áp được phép vận hành lâu dài với điện áp cao hơn không quá bao nhiêu % điện áp định mức tương ứng với đầu phân áp",
+    "options": [
+      "2,5%",
+      0.05,
+      "7,5%",
+      0.1
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Máy phát điện phải tách ra khỏi vận hành khi thiếu rơ le bảo vệ trong trường hợp nào?",
+    "options": [
+      "Bảo vệ so lệch",
+      "Bảo vệ vượt tốc",
+      "Bảo vệ còn lại không bảo đảm chống mọi dạng sự cố",
+      "Bảo vệ mất đối xứng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Phương án nào cho phép đưa tổ máy trở lại vận hành không cần văn bản Đơn vị quản lý vận hành khẳng định máy phát điện đó đủ tiêu chuẩn vận hành",
+    "options": [
+      "Bảo vệ quá dòng điện áp thấp",
+      "Bảo vệ mất kích từ",
+      "Bảo vệ chạm đất stator",
+      "Bảo vệ so lệch "
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Máy biến áp phải tách khỏi vận hành khi điện áp vượt quá mức nào?",
+    "options": [
+      "20% so với điện áp định mức của đầu phân áp",
+      "20% so với điện áp định mức của máy biến áp",
+      "15% so với điện áp định mức của đầu phân áp",
+      "15% so với điện áp định mức của máy biến áp"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Nhân viên vận hành phải lấy mẫu khí trong rơ le để phân tích và kiểm tra tính chất cháy của khí trong trường hợp nào?",
+    "options": [
+      "Khi máy biến áp bị nhảy sự cố",
+      "Khi rơle hơi báo tín hiệu",
+      "Khi silicagen đổi màu",
+      "Phương án 1, 2, 3 "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trường hợp nào sau đây phải tách máy biến áp ra khỏi vận hành",
+    "options": [
+      "Chảy dầu",
+      "Nhiệt độ cuộn dây quá mức cảnh báo",
+      "Có tiếng kêu khác thường",
+      "Mẫu dầu không đạt tiêu chuẩn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Cô lập bảo vệ so lệch thanh cái khi có điều kiện nào?",
+    "options": [
+      "Bảo vệ so lệch thanh cái còn lại làm việc bình thường",
+      "Đặt bảo vệ dự phòng sự cố thanh cái",
+      "Cắt điện thanh cái này",
+      "Phương án 1 hoặc 2 hoặc 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trường hợp xảy ra cháy nổ thiết bị nhất thứ, Trưởng ca xử lý sự cố theo phương án nào trước",
+    "options": [
+      "Gọi điện báo ngay cho cảnh sát cứu hỏa (114)",
+      "Gọi điện báo ngay cho cấp điều độ có quyền điều khiển",
+      "Gọi điện báo ngay cho Lãnh đạo nhà máy điều động thêm nhân viên đến dập lửa",
+      "Chỉ huy thao tác cách ly phần tử sự cố"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy điện kiến nghị cấp điều độ có quyền điều khiển xử lý tín hiệu cảnh báo kích thích tối thiểu máy phát điện theo phương án nào",
+    "options": [
+      "Tăng điện áp máy phát",
+      "Giảm công suất tác dụng",
+      "Giảm điện áp thanh cái ",
+      "Giảm công suất phản kháng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy điện kiến nghị cấp điều độ có quyền điều khiển xử lý tín hiệu cảnh báo quá tải stator máy phát điện theo phương án nào",
+    "options": [
+      "Giảm điện áp máy phát",
+      "Giảm công suất tác dụng",
+      "Tăng điện áp thanh cái ",
+      "Giảm công suất phản kháng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy điện kiến nghị cấp điều độ có quyền điều khiển xử lý tín hiệu cảnh báo quá tải rotor máy phát điện theo phương án nào",
+    "options": [
+      "Giảm điện áp máy phát",
+      "Giảm công suất tác dụng",
+      "Tăng điện áp thanh cái ",
+      "Tăng công suất phản kháng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy điện kiến nghị cấp điều độ có quyền điều khiển xử lý tín hiệu cảnh báo dao động công suất máy phát điện theo phương án nào",
+    "options": [
+      "Tăng điện áp thanh cái ",
+      "Tăng công suất tác dụng",
+      "Giảm công suất tác dụng ",
+      "Phương án 1, 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy xử lý theo trình tự nào khi mất điện toàn bộ nhà máy điện",
+    "options": [
+      "Báo cáo cấp điều độ có quyền điều khiển mất điện toàn nhà máy; Cắt toàn bộ máy cắt nếu đang đóng; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết ",
+      "Báo cáo cấp điều độ có quyền điều khiển mất điện toàn nhà máy; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết; Cắt toàn bộ máy cắt nếu đang đóng ",
+      "Cắt toàn bộ máy cắt nếu đang đóng; Báo cáo cấp điều độ có quyền điều khiển mất điện toàn nhà máy; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết",
+      "Kiểm tra xác định mất điện toàn nhà máy; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết; Cắt toàn bộ máy cắt nếu đang đóng; Báo cáo về sự cố cho cấp điều độ có quyền điều khiển"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Máy biến áp phải tách khỏi vận hành khi điện áp vượt quá mức nào",
+    "options": [
+      "15% so với điện áp định mức của máy biến áp",
+      "15% so với điện áp định mức của đầu phân áp",
+      "20% so với điện áp định mức của đầu phân áp",
+      "20% so với điện áp định mức của máy biến áp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trưởng ca nhà máy điện kiến nghị cấp điều độ có quyền điều khiển xử lý tín hiệu cảnh báo dao động công suất máy phát điện theo phương án nào",
+    "options": [
+      "Giảm công suất tác dụng ",
+      "Tăng điện áp thanh cái ",
+      "Giảm công suất tác dụng ; Tăng điện áp thanh cái ",
+      "Tăng công suất tác dụng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Phương án nào cho phép đưa tổ máy trở lại vận hành không cần văn bản Đơn vị quản lý vận hành khẳng định máy phát điện đó đủ tiêu chuẩn vận hành ",
+    "options": [
+      "Bảo vệ chạm đất stator ",
+      "Bảo vệ so lệch ",
+      "Bảo vệ quá dòng điện áp thấp ",
+      "Bảo vệ mất kích từ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 30% trong bao lâu:",
+    "options": [
+      "120 phút",
+      "80 phút",
+      "45 phút",
+      "30 phút"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Máy biến áp bị cắt do sự cố Rơ le so lệch và Rơ le hơi ( hoặc dòng dầu, áp lực dầu) để đưa MBA vào vận hành: ",
+    "options": [
+      "Đã tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, thí nghiệm các mẫu dầu mẫu khí, khắc phục các nhược điểm bất thường đã phát hiện",
+      "Đơn vị quản lý vận hành có văn bản xác nhận MBA đủ điều kiện vận hành gửi cấp điều độ có quyền điều khiển",
+      "Câu A, B sai.",
+      "Kết hợp câu 1 và 2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Nếu không có quy định riêng, máy biến áp được phép quá tải lâu dài bao nhiêu % của nấc điện áp tương ứng nếu điện áp ở nấc đó không cao hơn điện áp định mức.",
+    "options": [
+      "2,5%",
+      0.05,
+      "7,5%",
+      0.1
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Quan hệ công tác giữa Nhân viên vận hành cấp dưới với Nhân viên vận hành cấp trên và Lãnh đạo trực tiếp của Nhân viên vận hành cấp dưới",
+    "options": [
+      "Lãnh đạo trực tiếp của Nhân viên vận hành cấp dưới có quyền ra lệnh cho Nhân viên vận hành dưới quyền mình để xử lý sự cố, nhưng lệnh đó không được trái với lệnh của Nhân viên vận hành cấp trên và quy chuẩn kỹ thuật, tiêu chuẩn, quy định khác có liên quan",
+      "Khi lệnh của Lãnh đạo trực tiếp trái với lệnh của Nhân viên vận hành cấp trên, Nhân viên vận hành cấp dưới phải thi hành lệnh của Lãnh đạo trực tiếp và báo cáo Nhân viên vận hành cấp trên",
+      "Khi có đầy đủ lý do cho thấy Nhân viên vận hành không đủ năng lực xử lý sự cố, Lãnh đạo trực tiếp có quyền tạm đình chỉ công tác Nhân viên vận hành trong ca trực đó, tự mình xử lý sự cố hoặc chỉ định Nhân viên vận hành khác thay thế, không cần báo cáo cho Nhân viên vận hành cấp trên biết",
+      "Khi lệnh của Lãnh đạo trực tiếp trái với lệnh của Nhân viên vận hành cấp trên, Nhân viên vận hành cấp dưới không phải thi hành lệnh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Quy định khôi phục Máy phát điện sau sự cố",
+    "options": [
+      "Trường hợp Trưởng ca nhà máy điện, trung tâm điều khiển kiểm tra sơ bộ, xác nhận bảo vệ tác động do sự cố bên ngoài máy phát điện, máy phát điện không có hiện tượng gì bất thường và khẳng định đủ tiêu chuẩn vận hành, cho phép Điều độ viên chỉ huy đưa máy phát điện vào vận hành.\n",
+      "Trường hợp Trưởng ca nhà máy điện, trung tâm điều khiển xác nhận bảo vệ tác động do sự cố nội bộ trong máy phát điện hoặc sự cố thiết bị liên quan đến máy phát điện, Trưởng ca nhà máy điện, trung tâm điều khiển báo cáo Điều độ viên có quyền điều khiển cho phép thao tác cô lập máy phát điện để sửa chữa. Máy phát điện chỉ được đưa vào vận hành sau khi Đơn vị quản lý vận hành khẳng định máy phát điện đó đủ tiêu chuẩn vận hành",
+      "Trường hợp Trưởng ca nhà máy điện, trung tâm điều khiển kiểm tra sơ bộ, xác nhận bảo vệ tác động do sự cố bên ngoài máy phát điện, máy phát điện không có hiện tượng gì bất thường và khẳng định đủ tiêu chuẩn vận hành bằng văn bản do GĐ ký xác nhận, cho phép Điều độ viên chỉ huy đưa máy phát điện vào vận hành.",
+      "Câu 1, 2 đúng, câu 3 sai"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Nhân viên vận hành tại nhà máy điện, trạm điện, trung tâm điều khiển xử lý quá tải máy biến áp, Báo cáo Cấp điều độ có quyền điều khiển các thông tin sau:",
+    "options": [
+      "1. Thời gian bắt đầu và mức mang tải trên 90%, 100%, 110% giá trị định mức.  \n2. Nhiệt độ dầu và cuộn dây của máy biến áp (theo dõi liên tục, báo cáo ngay khi có sự thay đổi); Thời gian cho phép quá tải theo quy định.",
+      "1. Thời gian bắt đầu và mức mang tải trên 100%, 120%, 130% giá trị định mức.  \n2. Nhiệt độ dầu và cuộn dây của máy biến áp (theo dõi liên tục, báo cáo ngay khi có sự thay đổi); Thời gian cho phép quá tải theo quy định.",
+      "1. Thời gian bắt đầu và mức mang tải trên 100%, 115%, 125% giá trị định mức.  \n2. Nhiệt độ dầu và cuộn dây của máy biến áp (theo dõi liên tục, báo cáo ngay khi có sự thay đổi); Thời gian cho phép quá tải theo quy định.",
+      "1. Thời gian bắt đầu và mức mang tải trên 100%, 105%, 110% giá trị định mức.  \n2. Nhiệt độ dầu và cuộn dây của máy biến áp (theo dõi liên tục, báo cáo ngay khi có sự thay đổi); Thời gian cho phép quá tải theo quy định."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Nếu không có quy định riêng theo yêu cầu của nhà chế tạo, máy biến áp được quá điện áp như sau",
+    "options": [
+      "Trong điều kiện vận hành bình thường: Máy biến áp được vận hành ngắn hạn (dưới 06 giờ trong 24 giờ) với điện áp cao hơn không quá 5 % điện áp định mức tương ứng với đầu phân áp trong điều kiện máy biến áp không bị quá tải.",
+      "Trong điều kiện vận hành bình thường: Máy biến áp được vận hành ngắn hạn (dưới 06 giờ trong 24 giờ) với điện áp cao hơn không quá 20% điện áp định mức tương ứng với đầu phân áp trong điều kiện máy biến áp không bị quá tải.",
+      "Trong điều kiện vận hành bình thường: Máy biến áp được vận hành ngắn hạn (dưới 06 giờ trong 24 giờ) với điện áp cao hơn không quá 10% điện áp định mức tương ứng với đầu phân áp trong điều kiện máy biến áp không bị quá tải.",
+      "Trong điều kiện vận hành bình thường: Máy biến áp được vận hành ngắn hạn (dưới 06 giờ trong 24 giờ) với điện áp cao hơn không quá 15% điện áp định mức tương ứng với đầu phân áp trong điều kiện máy biến áp không bị quá tải."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Các nguyên tắc nào giúp chúng ta an toàn khi làm việc với hóa chất",
+    "options": [
+      "Không được ăn, uống hay hút thuốc trong khi sử dụng hóa chất độc; Sử dụng thiết bị bảo hộ lao động",
+      "Đảm bảo tất cả các thùng chứa hóa chất đều dán nhãn hợp lý; Luôn rửa tay bằng xà phòng sau khi sử dụng hóa chất; Không bao giờ ngửi hoặc nếm hóa chất để xác định nó",
+      "Biết rõ tất cả các quy trình và thiết bị khẩn cấp (vòi rửa mắt, tắm…); Luôn đọc nhãn và hướng dẫn an toàn trước khi dùng",
+      "Tất cả các yêu cầu trên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Khi hóa chất rò rỉ, phát tán trong nhà xưởng, khu vực kín. Thứ tự phục hồi khu vực làm việc như thế nào?",
+    "options": [
+      "Kiểm soát quá trình rò rỉ, phát tán; thu gom hóa chất; thông gió cưỡng bức; kiểm tra nồng độ độc tố; kiểm tra nồng độ oxy",
+      "Kiểm soát quá trình rò rỉ, phát tán; thu gom hóa chất; thông gió cưỡng bức; kiểm tra nồng độ độc tố; kiểm tra nồng độ oxy; kiểm tra nồng độ độc tố",
+      "Kiểm soát quá trình rò rỉ, phát tán; thu gom hóa chất; thông gió cưỡng bức; kiểm tra nồng độ oxy; kiểm tra nồng độ độc tố",
+      "Theo trình tự khác"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Trình tự các bước xử lý tràn đổ hóa chất tại nơi làm việc",
+    "options": [
+      "Sơ tán, Giảm nguy cơ có khả năng cháy nổ, Yêu cầu hỗ trợ, PPEs, Hạn chế lan rộng, Cô lập và thu gom, Vệ sinh khu tràn đổ, Trở lại làm việc",
+      "Sơ tán, Giảm nguy cơ có khả năng cháy nổ, Yêu cầu hỗ trợ, Hạn chế lan rộng, Cô lập và thu gom, Vệ sinh khu tràn đổ, Trở lại làm việc",
+      "Sơ tán, Yêu cầu hỗ trợ, Hạn chế lan rộng, Cô lập và thu gom, PPEs,Vệ sinh khu tràn đổ, Trở lại làm việc",
+      "Sơ tán, Giảm nguy cơ có khả năng cháy nổ, Yêu cầu hỗ trợ, Hạn chế lan rộngCô lập và thu gom, PPEs, Vệ sinh khu tràn đổ, Trở lại làm việc"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Giải pháp xử lý sự cố các bồn hóa chất bị rò rỉ, bể",
+    "options": [
+      "Tiến hành biện pháp phun sương tại vị trí bị rò rỉ hay bể để hạn chế sự phát tán khói hóa chất ra môi trường xung quanh, hạn chế sự ăn mòn thiết bị trong khu vực ",
+      "Khi hóa chất không còn rò rỉ hay chảy tràn nữa, tiến hành vệ sinh khu vực xung quanh và lượng hóa chất. Cố gắng tập trung lượng hóa chất vào hố chứa nước thải, tiến hành trung hòa lượng hóa chất đến khi pH nước thải đạt giá trị 5 ÷ 9 thì tiến hành bơm thải ra ngoài",
+      "Đối với lượng hóa chất còn lại trong bồn (không còn khả năng chảy tràn) tiến hành dùng bơm, hút hóa chất chứa vào thùng nhựa. Phối hợp với các đơn vị liên quan khắc phục điểm rò rỉ hay tiến hành thay mới bồn hóa chất",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Giải pháp xử lý sự cố rơi vỡ số lượng lớn Hydrazine",
+    "options": [
+      "Khi phát hiện thùng chứa hóa chất bị rò rỉ hay bể, ngay lập tức cảnh báo cho mọi người xung quanh được biết. Báo ngay cho ban ứng phó sự cố hóa chất của đơn vị quản lý khu vực có hóa chất để thực hiện các biện pháp và huy động người xử lý sự cố hóa chất",
+      "Tiến hành sơ tán người trong khu vực bị ảnh hưởng. Thực hiện các biển báo cảnh báo an toàn, cô lập khu vực xảy ra sự cố hóa chất. Nghiêm cấm người không có phận sự vào khu vực sự cố",
+      "Khi tiến hành khắc phục sự cố cần phải có ít nhất 2 người trở lên, phải được trang bị bảo hộ lao động đầy đủ như quần áo bảo hộ, mặt nạ phòng độc, găng tay, ủng, mắt kiếng chống hóa chất (thực hiện các biện pháp thông gió khi ở khu vực kín, nếu có thể)",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Giải pháp xử lý sự cố rò rỉ phuy Hydrazine",
+    "options": [
+      "Trường hợp rò rỉ thùng chứa hóa chất dùng nút bần cao su hay gỗ, nhựa chèn vào vị trí bị rò rỉ",
+      "Dùng cát hay vật liệu chống hóa chất để hấp thụ lượng hóa chất bị rò rỉ ra bên ngoài, dùng xẻng xúc vật liệu đã hấp thụ hóa chất vào thùng chứa chất thải, lưu trữ và bảo quản như chất thải nguy hại",
+      "Dùng nước vệ sinh lại khu vực bị rò rỉ hóa chất",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Giải pháp xử lý sự cố bị bể phuy chứa hóa chất Hydrazine",
+    "options": [
+      "Ngay lập tức lăn thùng vị trí bị bể lên trên để tránh đổ hóa chất ra khu vực xung quanh, dùng bao hấp thụ hóa chất bao quanh vị trí thùng chứa hóa chất bị bể để tránh tràn hóa chất xung quanh và hạn chế khu vực bị hóa chất lan nhiễm",
+      "Dùng cát hay vật liệu chống hóa chất để hấp thụ lượng hóa chất bị tràn ra bên ngoài, dùng xẻng xúc vật liệu đã hấp thụ hóa chất vào thùng chứa chất thải, lưu trữ và bảo quản như chất thải nguy hại. Dùng nước vệ sinh lại khu vực bị rò rỉ hóa chất",
+      "Đối với lượng hóa chất còn lại trong thùng (không còn khả năng chảy tràn) tiến hành dùng bơm, hút hóa chất chứa vào thùng chứa cùng loại",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Xử lý sự cố khi bình chứa Clo bị thủng",
+    "options": [
+      "Dùng thiết bị chuyên dụng cô lập hệ thống Clo và bình chứa Clo bị rò rỉ ",
+      "Xoay bình đưa vị trí xì hở lên cao nhất. Móc hai đầu móc của dây xích vào hai đầu bình. Điều chỉnh bulong ép trên bộ móc",
+      "Vệ sinh khu vực vò bình xung quanh điểm hở. Siết chặt bulong ép. Kiểm tra lại rò rỉ bằng dung dịch amoniac",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Xử lý sự cố Clo khi xì ở van bình do van hỏng hoặc không đóng kín được",
+    "options": [
+      "Ngay lập tức báo cho trưởng ca đương nhiệm để cùng phối hợp khắc phục sự cố. Ngăn những người không có nhiệm vụ và không có phương tiện bảo hộ đi vào khu vực ô nhiễm",
+      "Trang bị đầy đủ phương tiện bảo vệ cá nhân: mặt nạ phòng độc có bình dưỡng khí, quần áo, ủng, găng tay, tạp dề chống hóa chất",
+      "Tiến hành mở quạt thông gió, xác định vị trí bị rò rỉ",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Xử lý sự cố Clo khi xì ở van bình do van hỏng hoặc không đóng kín được",
+    "options": [
+      "Dùng thiết bị chuyên dụng cô lập hệ thống Clo và bình chứa Clo bị rò rỉ. Xoay van bị rò rỉ lên trên (nếu van bị xì nằm phía dưới). Tháo nắp xả trên mũ chụp van và mở hết van",
+      "Đặt thanh kẹp ở đầu bình có hai van. Móc xích vào đầu bình không có hai van. Siết bulong rút vào thanh kẹp điều chỉnh thanh kẹp để thanh kẹp phải nằm ngang",
+      "Vệ sinh về mặt đầu bình xung quanh vị trí bị xì. Gắn vòng đệm vào mũ chụp. Đưa mũ chụp vào vị trí van bị xì hở. Điều chỉnh vị trí bulong ép đúng tâm mũ chụp. Siết ép chặt mũ chụp vào đầu bình",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Xử lý sự cố khi xì Clo ở nút chảy bình Clo",
+    "options": [
+      "Dùng thiết bị chuyên dụng cô lập hệ thống Clo và bình chứa Clo bị rò rỉ ",
+      "Xoay bình đưa vị trí xì hở lên cao nhất. Vệ sinh phần đầu bình xung quanh điểm xì hở",
+      "Lặp vòng đệm lớn lên mũ chụp nút chảy. Lắp mũ chụp cùng vòng đệm lớn lên trên bộ kẹp. Đặt vòng đệm nhỏ vào bu long rút. Siết chặt đai ốc vào bulong nút",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Biện pháp vệ sinh sau khi sự cố hóa chất HCl bị tràn/ rò rỉ",
+    "options": [
+      "Thông gió khu vực bị tràn/rò rỉ axit do hơi axit sẽ thoát ra rất mạnh. Ngăn những người không có nhiệm vụ và không có PTBVCN đi vào khu vực ô nhiểm. Tìm cách bơm vơi axit sang các bồn chứa khác, có thể điều động xe bồn để chuyển axit trong bồn bị rò rỉ đi nơi khác",
+      "Cách ly khu vực bị tràn hóa chất với các khu vực khác, đặt bồn chứa tạm, bơm để thu hồi triệt để axit bên trong bờ bao. Khoang vùng khu vực bị tràn/rò rỉ axit. không dội nước và thao axit xuống hệ thống cống",
+      "Hấp thu lượng nhỏ axit còn lại bằng vật liệu hấp thu axit hoặc trung hòa bằng những hóa chất mang tính kiềm như soda ash, nước vôi… sau đó hấp thu bằng vật liệu có khả năng hút ẩm như đất khoáng, cát khô, đất, bao gói phần chất rắn này và đem tập trung vào khu vực chứa chất thải hóa chất nguy hại",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Khi bị a-xít bắn lên người phải nhanh chóng và bình tĩnh thực hiện các bước sau: ",
+    "options": [
+      "Dùng vải khô hay bông chùi sạch a-xít; Dùng nước hoặc dung dịch NaHCO3 2% rửa chỗ vết thương",
+      "Sau khi rửa xong lấy chất vadơlin bôi vào chỗ vết thương và băng bó lại",
+      "Nếu vết thương bị nặng, phải chuyển người bị nạn đến bệnh viện để cứu chữa",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Khi bị kiềm bắn vào người thì phải phải nhanh chóng và bình tĩnh thực hiện các bước sau: ",
+    "options": [
+      "Dùng vải khô hay bông chùi sạch những vị trí trên người bị kiềm dính vào",
+      "Dùng nước rửa sạch chỗ vết thương, dùng dung dịch axít boric loãng 2% (hoặc dung dịch a-xít axetic 2%) để trung hoà kiềm bắn vào da",
+      "Sau khi rửa xong, lấy vadơlin bôi vào chỗ vết thương và băng bó lại; Nếu vết thương bị nặng, phải chuyển người bị nạn đến bệnh viện để cứu chữa",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sơ cấp cứu Hít phải khí, khói hay bụi hóa chất",
+    "options": [
+      "Di chuyển nạn nhân đến khu vực sạch sẽ, thông thoáng khí",
+      "Loại bỏ quần áo nhiễm bẩn và các vật dụng khác",
+      "Rửa sạch hóa chất ra khỏi mắt hay trên da nếu cần",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trường hợp tai nạn hóa chất Clo lỏng khi tiếp xúc theo đường mắt (bị văng, dây vào mắt) ",
+    "options": [
+      "Ngay lập tức rửa thật kỹ mắt với nước tối thiểu trong 15 phút, giữ cho mắt mở khi rửa",
+      "Lập tức thay y phục và tắm rửa ngay sau khi tiếp xúc với môi trường có khí Clo. Không nên thử trung hòa Clo bằng hóa chất",
+      "Đưa nạn nhân ra nơi thoáng khí. Hô hấp nhân tạo nếu nạn nhân ngừng thở. Giữ ấm cho nạn nhân nếu nạn nhân còn thở được. Cố gắng giảm các cơn ho bằng cách cho uống thuốc ho hoặc sữa",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trường hợp tai nạn hóa chất Clo lỏng khi tiếp xúc theo đường hô hấp (hít phải hóa chất dạng hơi, khí) ",
+    "options": [
+      "Ngay lập tức rửa thật kỹ mắt với nước tối thiểu trong 15 phút, giữ cho mắt mở khi rửa",
+      "Lập tức thay y phục và tắm rửa ngay sau khi tiếp xúc với môi trường có khí Clo. Không nên thử trung hòa Clo bằng hóa chất",
+      "Đưa nạn nhân ra nơi thoáng khí. Hô hấp nhân tạo nếu nạn nhân ngừng thở. Giữ ấm cho nạn nhân nếu nạn nhân còn thở được. Cố gắng giảm các cơn ho bằng cách cho uống thuốc ho hoặc sữa",
+      "Kết hợp 1, 2 và 3"
+    ],
+    "answer": 2
+  }
+]
